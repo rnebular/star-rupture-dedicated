@@ -6,4 +6,6 @@ Docker version based on https://github.com/indifferentbroccoli/starrupture-serve
 Local version based on forum post:
 https://steamcommunity.com/app/1631270/discussions/0/695375725078790998/?ctp=1
 
-# tested on Ubuntu 24.x
+# testing on Ubuntu 24.x
+Need to install xvfb and wine
+
